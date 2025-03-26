@@ -8,6 +8,6 @@ public class HomeController {
 
     @GetMapping("/")
     public String index() {
-        return "index";  // index.jsp 파일을 반환
+        return "index";  // index.jsp 파일을 반환 dddd
     }
 }
