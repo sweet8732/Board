@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Hello, Spring Boot with JSP!</h1>
-    <p>Welcome to the Board Application</p>
+    <p>Welcome to the Board Application2424</p>
 </body>
 </html>
